@@ -1,0 +1,15 @@
+# Site Settings
+title: Start Jekyll
+email: joshua.y2506@gmail.com
+description: >
+  A guide to getting started with Jekyll.
+baseurl: "/testsite"
+url: "http://joshua-y.github.io"
+twitter_username:
+github_username:  joshua-y
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
