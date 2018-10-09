@@ -14,5 +14,28 @@
 </aside>
 
 <header>
-	<h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
+	<img src="../images/background.jpg" alt = "Background" height="100%" width="125%">
+	<div class="centered">
+		<p><a href="{{ site.url }}">{{ site.title }}</a></p>
+	</div>
 </header>
+
+<style>
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.centered {
+	position: absolute;
+	top: 27.5%;
+	left: 50%;
+	transform: translate(-50%, -45%);
+	mix-blend-mode: multiply;
+	font-size: 7vw;
+	font-weight: bold;
+}
+</style>
