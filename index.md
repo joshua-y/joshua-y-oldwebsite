@@ -4,4 +4,4 @@ layout: default
 
   <h2>Main Page</h2>
 
-  Main content goes here.
+  Welcome to my site! Click the links above to navigate the page.
