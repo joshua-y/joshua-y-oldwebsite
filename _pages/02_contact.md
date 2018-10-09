@@ -6,4 +6,6 @@ permalink: /contact/
 
 Contact me using the info below!
 
-My e-mail is [joshua.y2506@gmail.com](mailto:joshua.y2506@gmail.com).
+Email: [joshua.y2506@gmail.com](mailto:joshua.y2506@gmail.com)
+
+LinkedIn: [https://www.linkedin.com/in/joshua-young22/](https://www.linkedin.com/in/joshua-young22/)

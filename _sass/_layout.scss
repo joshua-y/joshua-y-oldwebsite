@@ -109,3 +109,8 @@ footer {
 	text-align: center;
 	padding: 40px;
 }
+
+img[src*='#left'] {
+    float: left;
+		margin-right: 2vw;
+}
