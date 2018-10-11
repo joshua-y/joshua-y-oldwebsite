@@ -36,6 +36,13 @@ a:hover {
 	color: $link-hover-color;
 	text-decoration: underline;
 }
+
+.logosize {
+	display: block;
+	line-height: 0;
+	padding: 0 !important;
+}
+
 header {
 	background: $header;
 	padding: 0px 15px;
