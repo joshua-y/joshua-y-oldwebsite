@@ -6,4 +6,4 @@ permalink: /projects/
 
 Check out my projects!
 
-[WIP]({{site.url}}/projects/)
+[WIP]({{site.url}}/testsite/)
