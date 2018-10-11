@@ -8,6 +8,6 @@ permalink: /about/
 
 I'm a first-year computer science student at UCLA looking for internships and experience in software development, machine learning, and robotics.
 <br><br>
-View my [Resume](https://drive.google.com/file/d/1_6SMJsNlxCRpMkPT7WheYunqZhIPpbOE/view?usp=sharing)
+View my [Resume](../images/Updated Resume.pdf){:target="_blank"}
 <br><br>
 WIP (Stay tuned for more!)
